@@ -1,3 +1,3 @@
-## Unreleased
+## v1.1.0
 - Updates of the introduction.md and history.md files. The updates that took place are part of a collaborative work which was done during a Holberton school github flow workshop.
 - Updates and conflict resolution of the collaboration.md file. Collaboration on 2 different feature branches aiming to update the collaboration file resulted in a file conflict which was later handled manually on the local machine of the repo owner before pushing the updates.
